@@ -1,4 +1,4 @@
-
+#Given three integers, print the smallest one. (Three integers should be user input)
 a=int(input("enter 1st number"))
 b=int(input("enter 2nd number"))
 c=int(input("enter 3rd number"))
